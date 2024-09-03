@@ -133,7 +133,7 @@ a{
     border-radius: 32px;
 }
 .intro-bg {
-    background-image: url(/images/background-img.png);
+    background-image: url(../images/background-img.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
